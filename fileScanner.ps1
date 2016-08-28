@@ -1,7 +1,8 @@
 #global variable stuff -CHANGE!!!
+#local path of the folder you want to sync
 $localPath = "YOUR LOCAL PATH"
 
-#path to FTP site. Example: ftp://example.com (no end slash)
+#path to FTP site. Example: ftp://example.com/file/to/upload/to (no end slash)
 $FTPPath = ""
 
 #filter specific files by name/type
